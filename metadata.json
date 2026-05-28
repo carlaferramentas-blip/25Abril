@@ -1,0 +1,6 @@
+{
+  "name": "25 de Abril - Revolução dos Cravos",
+  "description": "Portal histórico e educativo sobre a Revolução de 25 de Abril de 1974 em Portugal. Inclui cronologia interativa, arquivos, depoimentos, impacto sociocultural e quiz educativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
